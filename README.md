@@ -1,5 +1,5 @@
 # CityHack22 Project Submission
-## Project: < Time Series Foracasting Application >
+## Project: < Time Series Foracasting for power consumption>
 <img src="https://github.com/Maxproto/CityHack2022/blob/main/TimeSeries.png" width="200" alt="project_logo"/>
 
 ## Team: < Best >
@@ -13,7 +13,7 @@
 This is a time series forecasting project using modeling to make predictions and inform strategic decision-making in multiple areas. 
 
 ### Problem Formulation:
-In the light of the given data info, our group reformulates the problem in the following way. The input data consists of 4 features, which could be viewed as common multivariable input in business or industrial analysis. The final output Y could be regarded as different values we would like to predict such as stock price, voltage, income, etc.
+In the light of the given data info, our group reformulates the problem in the following way. The input data consists of 4 features, which could be viewed as common multivariable input in business or industrial analysis, and the final output Y could be regarded as different values we would like to predict such as stock price, voltage, income, etc. Here our scenario is for power consumption. 
 
 #### Data Understanding:
 The original training dataset contains 41932 rows with each row representing a single record with 4 attributes and its corresponding time and Y value. The time is ranging from 00:00 01/01/2022 to 04:30 19/10/2022.
